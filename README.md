@@ -9,7 +9,7 @@ I am usually very wary on comparing the state of technology in general use that 
 
 ##WiFi
 
-WiFi in restaurants/coffee places/malls/other public spots should really be without a password, if you provide that service to your customers. **There is no additional security to be had if you hand out your WiFi password to those customers who ask for it.** It's as good as having no password at all.
+WiFi in restaurants/coffee places/malls/other public spots should really be without a password, if you provide that service to your customers. **There is no additional security to be had if you have the policy of only handing out your WiFi password to customers who ask for it.** It's as good as having no password at all.
 
 If you are concerned about your own business' communication being out in the open, maintain a separate locked down WiFi SSID and never hand that one out to any customer.
 
